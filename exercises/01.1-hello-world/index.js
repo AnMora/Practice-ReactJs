@@ -14,3 +14,5 @@ const myDiv = document.querySelector("#myDiv");
 
 //what   //where
 ReactDOM.render(output, myDiv);
+
+// Comienzo de ejercicios para reforzar react js
